@@ -12,7 +12,7 @@ $ react-native run-android
 ```
 
 ### Download APK
-[react-native-side-dan-tabs-menu.apk](https://drive.google.com/open?id=1TKKyS_t6rFKrCqGzJPCMwRE4TvouHPx7)
+[react-native-side-dan-tabs-menu.apk](https://drive.google.com/open?id=1Gpcnpc9FZlAmu6yX9N2LJyAzga1kZHH1)
 
 ### Software Version
 * React Native 0.57.5
